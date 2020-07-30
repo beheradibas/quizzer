@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="startstr">Start Quiz</string>
+    <string name="sets">Sets</string>
+</resources>

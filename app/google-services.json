@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635827153397",
+    "firebase_url": "https://quizzer-d4fad.firebaseio.com",
+    "project_id": "quizzer-d4fad",
+    "storage_bucket": "quizzer-d4fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635827153397:android:dc6d753d8b99799e9958bc",
+        "android_client_info": {
+          "package_name": "com.example.quizzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635827153397-lktoh8ola07djuhpg9dnfa0dblapb025.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6IU96vcOIz-2-85VYKt7aFQ97vl2qrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635827153397-lktoh8ola07djuhpg9dnfa0dblapb025.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
